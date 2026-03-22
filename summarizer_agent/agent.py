@@ -21,7 +21,7 @@ from google.adk import Agent
 
 load_dotenv()
 
-model_name = os.getenv("MODEL", "gemini-2.0-flash")
+model_name = os.getenv("MODEL", "gemini-2.5-flash")
 
 # ── Define the Agent ──────────────────────────────────────────────────────────
 # ADK requires the main agent variable to be named `root_agent`.
