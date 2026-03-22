@@ -17,7 +17,7 @@ from google.adk import Agent
 #   GOOGLE_CLOUD_PROJECT=your-project-id
 #   GOOGLE_CLOUD_LOCATION=us-central1
 #   GOOGLE_GENAI_USE_VERTEXAI=True
-#   MODEL=gemini-2.0-flash
+#   MODEL=gemini-2.5-flash
 
 load_dotenv()
 
